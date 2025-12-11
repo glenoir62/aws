@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="list-video">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/list-videos/list-video.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
