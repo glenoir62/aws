@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="lambda3">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/front-stream/lambda.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

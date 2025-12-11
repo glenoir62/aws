@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="generate-upload-url">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/generate-upload-url/generate-upload-url.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="lambda">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/s3-to-rds-streaming/lambda.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
